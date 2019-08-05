@@ -18,7 +18,7 @@ The below commands will be used to pull data from the API's used
 ## .env
 Make sure to create your on .env file to store your spotify key information in order to run that portion of the application.
 
-## if a search parameter is not provided, a default band, song/artist(s), movie will populate
+### if a search parameter is not provided, a default band, song/artist(s), movie will populate
 
 ## concert-this
 ![alt_text](images/concert-this.png "concert-this")
@@ -33,4 +33,4 @@ Make sure to create your on .env file to store your spotify key information in o
 ![alt_text](images/movie-this-two.png "movie-this-two")
 
 ## do-this
-![alt_text] (images/do=this.png "do-this")
+![alt_text] (images/do-this.png "do-this")
