@@ -29,8 +29,8 @@ Make sure to create your on .env file to store your spotify key information in o
 ## movie-this
 ![alt_text](images/movie-this.png "movie-this")
 
-## movie-this without paramenter
+## movie-this without parameter
 ![alt_text](images/movie-this-two.png "movie-this-two")
 
 ## do-this
-![alt_text] (images/do-this.png "do-this")
+![alt_text](images/do-this.png "do-this")
